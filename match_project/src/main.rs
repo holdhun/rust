@@ -29,7 +29,7 @@ fn main() {
         Point { x: x1, y: y1} => println!("({},{})", x1, y1),
     }
 
-    let tuple:(u32,String) = (5, String::from("jkasdh"));
+    //let tuple:(u32,String) = (5, String::from("jkasdh"));
     //let (x,s)=tuple;
     //println!("Tuple is: {:?}", tuple);
     
